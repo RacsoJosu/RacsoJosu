@@ -38,7 +38,7 @@
 ## 🔭 What I'm Working On | En qué estoy trabajando  
 - Digital Engineering | Ingeniería Digital
 - HealthTech applications to improve access to healthcare | Aplicaciones HealthTech para mejorar el acceso a la salud  
-- Multi-platform system: Admin, Patients, and Doctors | Sistema multiplataforma: Admin, Pacientes y Médicos  
+- Multi-platform system: Admin, Patients, and Supplier | Sistema multiplataforma: Admin, Pacientes y Proveedor  
 - Focused on usability, scalability, and secure digital healthcare | Enfocado en usabilidad, escalabilidad y salud digital segura  
 
 ---
