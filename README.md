@@ -3,20 +3,14 @@
 **Full Stack Developer | Apasionado por la tecnología**  
 
 ---
+## 🌟 Favorite Projects | Proyectos Favoritos  
+- [Shinball Fronted](https://github.com/RacsoJosu/shinball-fronted)  
+- [Store React](https://github.com/RacsoJosu/Store-React)  
+- [Pokedex](https://github.com/RacsoJosu/Pokedex)  
+- [Shiball Admin API](https://github.com/RacsoJosu/shiball-admin-api)  
+- [Items Store](https://github.com/RacsoJosu/Items-Store)  
 
-## 🔭 What I'm Working On | En qué estoy trabajando  
-- Digital Engineering | Ingeniería Digital
-- HealthTech applications to improve access to healthcare | Aplicaciones HealthTech para mejorar el acceso a la salud  
-- Multi-platform system: Admin, Patients, and Doctors | Sistema multiplataforma: Admin, Pacientes y Médicos  
-- Focused on usability, scalability, and secure digital healthcare | Enfocado en usabilidad, escalabilidad y salud digital segura  
-
-
-## 📚 Currently Learning | Aprendiendo  
-- Automation with **n8n** | Automatización con **n8n**  
-- Mobile development with **React Native** | Desarrollo móvil con **React Native**
-- AWS Cloud & Services | AWS en general y sus servicios  
-
----
+ ---
 
 ## 🚀 Top Skills & Technologies | Habilidades y Tecnologías  
 - **Languages & Frameworks:** TypeScript, JavaScript, Java, C#  
@@ -26,25 +20,11 @@
 
 ---
 
-## 🌟 Favorite Projects | Proyectos Favoritos  
-- [Shinball Fronted](https://github.com/RacsoJosu/shinball-fronted)  
-- [Store React](https://github.com/RacsoJosu/Store-React)  
-- [Pokedex](https://github.com/RacsoJosu/Pokedex)  
-- [Shiball Admin API](https://github.com/RacsoJosu/shiball-admin-api)  
-- [Items Store](https://github.com/RacsoJosu/Items-Store)  
+## 📚 Currently Learning | Aprendiendo  
+- Automation with **n8n** | Automatización con **n8n**  
+- Mobile development with **React Native** | Desarrollo móvil con **React Native**
+- AWS Cloud & Services | AWS en general y sus servicios  
 
----
-
-## 🏆 Achievements | Logros  
-- **Bachelor’s Degree in Systems Engineering – National Autonomous University of Honduras (UNAH) | Título de Ingeniero en Sistemas – Universidad Nacional Autónoma de Honduras (UNAH)**  
-- Built and launched multiple web apps used by hundreds of users | He construido y lanzado múltiples aplicaciones web usadas por cientos de usuarios  
-
-
----
-
-## 🌐 Connect With Me | Conecta conmigo  
-- [LinkedIn](https://www.linkedin.com/in/oscar-vallecillo-938127254)  
-- 📧 Email: oscarvallecillo.dev@gmail.com  
 ---
 
 ## 💡 Passionate About | Apasionado por  
@@ -52,6 +32,26 @@
 - Artificial Intelligence | Inteligencia Artificial  
 - Open Source | Código Abierto  
 - Process Automation | Automatización de procesos  
+
+---
+
+## 🔭 What I'm Working On | En qué estoy trabajando  
+- Digital Engineering | Ingeniería Digital
+- HealthTech applications to improve access to healthcare | Aplicaciones HealthTech para mejorar el acceso a la salud  
+- Multi-platform system: Admin, Patients, and Doctors | Sistema multiplataforma: Admin, Pacientes y Médicos  
+- Focused on usability, scalability, and secure digital healthcare | Enfocado en usabilidad, escalabilidad y salud digital segura  
+
+---
+
+## 🏆 Achievements | Logros  
+- **Bachelor’s Degree in Systems Engineering – National Autonomous University of Honduras (UNAH) | Título de Ingeniero en Sistemas – Universidad Nacional Autónoma de Honduras (UNAH)**  
+- Built and launched multiple web apps used by hundreds of users | He construido y lanzado múltiples aplicaciones web usadas por cientos de usuarios  
+
+---
+
+## 🌐 Connect With Me | Conecta conmigo  
+- [LinkedIn](https://www.linkedin.com/in/oscar-vallecillo-938127254)  
+- 📧 Email: oscarvallecillo.dev@gmail.com  
 
 ---
 
