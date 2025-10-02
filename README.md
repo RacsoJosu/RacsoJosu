@@ -5,7 +5,11 @@
 ---
 
 ## 🔭 What I'm Working On | En qué estoy trabajando  
-- Digital Engineering | Ingeniería Digital  
+- Digital Engineering | Ingeniería Digital
+- HealthTech applications to improve access to healthcare | Aplicaciones HealthTech para mejorar el acceso a la salud  
+- Multi-platform system: Admin, Patients, and Doctors | Sistema multiplataforma: Admin, Pacientes y Médicos  
+- Focused on usability, scalability, and secure digital healthcare | Enfocado en usabilidad, escalabilidad y salud digital segura  
+
 
 ## 📚 Currently Learning | Aprendiendo  
 - Automation with **n8n** | Automatización con **n8n**  
@@ -40,7 +44,7 @@
 
 ## 🌐 Connect With Me | Conecta conmigo  
 - [LinkedIn](https://www.linkedin.com/in/oscar-vallecillo-938127254)  
-
+- 📧 Email: oscarvallecillo.dev@gmail.com  
 ---
 
 ## 💡 Passionate About | Apasionado por  
