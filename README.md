@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Oscar Vallecillo  
-# 👋 Hola, soy Oscar Vallecillo  
+# 👋 Hi, I'm Oscar Vallecillo | 👋 Hola, soy Oscar Vallecillo  
 
 **Full Stack Developer | Apasionado por la tecnología**  
 
