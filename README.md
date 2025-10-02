@@ -15,7 +15,7 @@
 ## 🚀 Top Skills & Technologies | Habilidades y Tecnologías  
 - **Languages & Frameworks:** TypeScript, JavaScript, Java, C#  
 - **Frontend:** React, Next.js, ShadcnUI, TailwindCSS, CSS, Html  
-- **Backend:** Spring Boot, .NET, NestJS  
+- **Backend:** Spring Boot, .NET, NestJS, Nodejs, ExpressJs  
 - **Cloud & DevOps:** AWS (S3, EventBridge, Lambda, EC2, RDS), Docker  
 
 ---
