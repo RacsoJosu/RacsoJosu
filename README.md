@@ -10,7 +10,7 @@
 - [Shiball Admin API](https://github.com/RacsoJosu/shiball-admin-api)  
 - [Items Store](https://github.com/RacsoJosu/Items-Store)
 - [AWS Event-driven architecture ](https://github.com/RacsoJosu/event-driven-architecture-aws)  
-- 
+
 
  ---
 
