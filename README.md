@@ -8,7 +8,9 @@
 - [Store React](https://github.com/RacsoJosu/Store-React)  
 - [Pokedex](https://github.com/RacsoJosu/Pokedex)  
 - [Shiball Admin API](https://github.com/RacsoJosu/shiball-admin-api)  
-- [Items Store](https://github.com/RacsoJosu/Items-Store)  
+- [Items Store](https://github.com/RacsoJosu/Items-Store)
+- [AWS Event-driven architecture ](https://github.com/RacsoJosu/event-driven-architecture-aws)  
+- 
 
  ---
 
