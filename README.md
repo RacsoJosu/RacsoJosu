@@ -4,14 +4,15 @@
 
 ---
 ## 🌟 Favorite Projects | Proyectos Favoritos  
+ Frontend:
 - [Shinball Fronted](https://github.com/RacsoJosu/shinball-fronted)  
 - [Store React](https://github.com/RacsoJosu/Store-React)  
-- [Pokedex](https://github.com/RacsoJosu/Pokedex)  
+- [Pokedex](https://github.com/RacsoJosu/Pokedex)
+
+ Backend:
+- [AWS Event-driven architecture ](https://github.com/RacsoJosu/event-driven-architecture-aws)  
 - [Shiball Admin API](https://github.com/RacsoJosu/shiball-admin-api)  
 - [Items Store](https://github.com/RacsoJosu/Items-Store)
-- [AWS Event-driven architecture ](https://github.com/RacsoJosu/event-driven-architecture-aws)  
-
-
  ---
 
 ## 🚀 Top Skills & Technologies | Habilidades y Tecnologías  
