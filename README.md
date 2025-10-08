@@ -48,8 +48,7 @@
 
 ## 🏆 Achievements | Logros  
 - **Bachelor’s Degree in Systems Engineering – National Autonomous University of Honduras (UNAH) | Título de Ingeniero en Sistemas – Universidad Nacional Autónoma de Honduras (UNAH)**  
-- Built and launched multiple web apps used by hundreds of users | He construido y lanzado múltiples aplicaciones web usadas por cientos de usuarios  
-
+- Built and launched multiple web apps | He construido y lanzado multipled wep apps
 ---
 
 ## 🌐 Connect With Me | Conecta conmigo  
