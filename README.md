@@ -5,9 +5,9 @@
 ---
 ## 🌟 Favorite Projects | Proyectos Favoritos  
  Frontend:
-- [Shinball Fronted](https://github.com/RacsoJosu/shinball-fronted)  Link: https://shinball-fronted.vercel.app/ 
-- [Store React](https://github.com/RacsoJosu/Store-React)  Link: https://store-react-alpha.vercel.app/
-- [Pokedex](https://github.com/RacsoJosu/Pokedex) Link: https://pokedex-nu-cyan.vercel.app/
+- [Shinball Fronted](https://github.com/RacsoJosu/shinball-fronted)   https://shinball-fronted.vercel.app/ 
+- [Store React](https://github.com/RacsoJosu/Store-React)   https://store-react-alpha.vercel.app/
+- [Pokedex](https://github.com/RacsoJosu/Pokedex) https://pokedex-nu-cyan.vercel.app/
 
  Backend:
 - [AWS Event-driven architecture ](https://github.com/RacsoJosu/event-driven-architecture-aws)  
