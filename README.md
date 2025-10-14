@@ -10,7 +10,7 @@
 - [Pokedex](https://github.com/RacsoJosu/Pokedex) - [Preview](https://pokedex-nu-cyan.vercel.app/)
 
  Backend:
-- [AWS DynamoDB ](https://github.com/RacsoJosu/api-gateway-dynamo-db-serverless-crud) 
+- [AWS DynamoDB CRUD ](https://github.com/RacsoJosu/api-gateway-dynamo-db-serverless-crud) 
 - [AWS Event-driven architecture ](https://github.com/RacsoJosu/event-driven-architecture-aws)  
 - [Shiball Admin API](https://github.com/RacsoJosu/shiball-admin-api)  
 - [Items Store](https://github.com/RacsoJosu/Items-Store)
