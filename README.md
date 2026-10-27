@@ -1,84 +1,174 @@
+
+<div align="center">
+
 # Oscar Vallecillo
-### Software Engineer · Tech Lead · Full Stack Developer
 
-I design and build maintainable software solutions, combining technical leadership with hands-on development. My work focuses on solving complex business problems, improving system performance, and designing reliable architectures that can evolve with changing requirements.
+### Ingeniero en Sistemas · Tech Lead · Full Stack Developer
 
-I enjoy understanding how systems work, identifying bottlenecks, and turning technical problems into practical solutions.
+**Arquitectura de software · Desarrollo backend · Liderazgo técnico**
 
-[Portfolio](https://oscar-vallecillo-dev.netlify.app) · [LinkedIn](https://www.linkedin.com/in/oscar-vallecillo-938127254) · [GitHub](https://github.com/RacsoJosu)
+Diseño y desarrollo soluciones de software mantenibles, combinando liderazgo técnico con implementación práctica. Me enfoco en resolver problemas complejos de negocio, optimizar el rendimiento y construir arquitecturas que puedan evolucionar con los requisitos del sistema.
+
+<br />
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-0969DA?style=flat-square&logo=googlechrome&logoColor=white)](https://oscar-vallecillo-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-vallecillo-938127254)
+[![GitHub](https://img.shields.io/badge/GitHub-RacsoJosu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RacsoJosu)
+
+</div>
 
 ---
 
-## What I Do
+## 👨‍💻 Sobre mí
 
-- **Software Architecture:** Design maintainable backend architectures, modular systems, and clear separation of responsibilities.
-- **Backend Engineering:** Build APIs, integrate external services, optimize database operations, and implement business logic.
-- **Full Stack Development:** Develop scalable applications with TypeScript, React, Next.js, and Node.js.
-- **Performance Optimization:** Refactor inefficient processes, improve data processing, and optimize frontend loading.
-- **Cloud & Automation:** Build scheduled processes and integrations using AWS, Docker, n8n, and Make.
-- **AI-Assisted Engineering:** Design structured AI development workflows with explicit coding rules, planning, testing, and human review.
+Soy Ingeniero en Sistemas y desarrollador de software con un perfil híbrido entre **liderazgo técnico y desarrollo hands-on**. Participo en el análisis de problemas de negocio, diseño de soluciones, definición de arquitectura y desarrollo de funcionalidades para entornos productivos.
 
-## Selected Engineering Experience
+Me interesa entender cómo funcionan los sistemas, identificar cuellos de botella y transformar problemas técnicos en soluciones prácticas, eficientes y sostenibles.
 
-### Performance Optimization
+- 🏗️ **Arquitectura:** sistemas modulares, separación de responsabilidades y patrones de diseño.
+- ⚙️ **Backend:** APIs, integraciones externas, lógica de negocio y optimización de bases de datos.
+- 🖥️ **Full Stack:** aplicaciones web con TypeScript, React, Next.js y Node.js.
+- 🚀 **Rendimiento:** optimización de procesos, procesamiento por lotes y carga eficiente del frontend.
+- ☁️ **Cloud y automatización:** servicios AWS, procesos programados e integración de plataformas.
+- 🤖 **Ingeniería asistida por IA:** flujos de desarrollo estructurados con planificación, pruebas y revisión humana.
 
-Redesigned a data import process handling approximately 5,000 Excel records across multiple database tables.
+## 📈 Resultados de ingeniería
 
-- Refactored data-processing workflows.
-- Improved read/write operations and batch processing.
-- Reduced reported processing time from approximately **5 minutes to 800 milliseconds**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### Backend Architecture
+### ⚡ Optimización de rendimiento
 
-- Designed layered backend structures separating routes, controllers, services, repositories, and validation schemas.
-- Applied dependency injection, dependency inversion, and design patterns such as Strategy and Builder.
-- Improved existing database schemas and relationships.
-- Focused on maintainability, modularity, and reusable business logic.
+**~5 min → ~800 ms**
 
-### Payment Integrations & Automation
+Optimización de un proceso de importación de aproximadamente 5,000 registros de Excel distribuidos en múltiples tablas.
 
-- Integrated PixelPay into backend payment workflows.
-- Implemented scheduled recurring payment processes using AWS EventBridge and AWS Lambda.
-- Generated payment links for users whose automatic charges failed, allowing them to reactivate subscriptions.
-- Implemented endpoints to process payment confirmation webhooks.
-- Automated business processes and data imports using n8n, Make, and external APIs.
+- Reestructuración del procesamiento.
+- Separación y optimización de operaciones de lectura y escritura.
+- Implementación de operaciones por lotes.
 
-### AI-Assisted Software Development
+    </td>
+    <td width="50%" valign="top">
 
-Designed a structured development workflow using `AGENTS.md`, skills, hooks, specialized prompts, and subagents.
+### 🏗️ Arquitectura backend
 
-The workflow guides task refinement, complexity assessment, implementation planning, testing, and code review. It establishes strict boundaries around critical code, requires adherence to project conventions, and keeps business decisions under developer supervision.
+**Modularidad y mantenibilidad**
 
-## Technology Stack
+Diseño de estructuras backend con responsabilidades claramente definidas.
 
-**Languages**
+- Routers, controladores, servicios y repositorios.
+- Inyección e inversión de dependencias.
+- Patrones Strategy y Builder.
+- Mejora de esquemas y relaciones de base de datos.
 
-TypeScript · JavaScript · Python · SQL · Java · C#
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-**Frontend**
+### 💳 Integraciones de pago
 
-React · Next.js · TanStack Query · Tailwind CSS · shadcn/ui
+**PixelPay + AWS**
 
-**Backend**
+Implementación de flujos de cobro y confirmación de pagos.
 
-Node.js · Express · NestJS · REST APIs · GraphQL
+- Cobros recurrentes con Lambda y EventBridge.
+- Generación de enlaces de pago alternativos.
+- Endpoints para procesar webhooks de confirmación.
 
-**Databases**
+    </td>
+    <td width="50%" valign="top">
 
-PostgreSQL · MySQL · SQL Server · MongoDB
+### 🤖 Flujos de desarrollo con IA
 
-**Cloud & Infrastructure**
+**Agentes + estándares de ingeniería**
 
-AWS Lambda · Amazon EventBridge · Amazon S3 · Amazon RDS · Amazon EC2 · AWS CDK · Docker · Nginx · Terraform
+Diseño de un flujo de trabajo para coordinar agentes de desarrollo mediante:
 
-**Automation & Data**
+- `AGENTS.md`, skills, hooks y prompts especializados.
+- Refinamiento de requisitos y planificación.
+- Implementación, pruebas y revisión de código.
+- Límites explícitos para proteger código crítico y respetar las reglas de negocio.
 
-n8n · Make · Excel · Power BI · pandas · Matplotlib
+    </td>
+  </tr>
+</table>
 
-## Let's Connect
+## 🧰 Stack tecnológico
 
-I'm interested in opportunities involving software engineering, technical leadership, backend architecture, and full stack development.
+### Lenguajes de programación
 
-- Portfolio: https://oscar-vallecillo-dev.netlify.app
-- LinkedIn: https://www.linkedin.com/in/oscar-vallecillo-938127254
-- GitHub: https://github.com/RacsoJosu
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs" alt="TypeScript, JavaScript, Python, Java y C#" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js y Tailwind CSS" />
+</p>
+
+`TanStack Router` · `TanStack Query` · `shadcn/ui` · `Zustand` · `React Hook Form`
+
+### Backend y APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,spring" alt="Node.js, Express, NestJS, .NET y Spring" />
+</p>
+
+`REST APIs` · `GraphQL` · `Zod` · `Drizzle ORM` · `Prisma` · `Dependency Injection`
+
+### Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL y MongoDB" />
+</p>
+
+`SQL Server` · `Modelado relacional` · `Optimización de consultas` · `Índices`
+
+### Cloud e infraestructura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,terraform,githubactions" alt="AWS, Docker, Nginx, Terraform y GitHub Actions" />
+</p>
+
+`AWS Lambda` · `Amazon EventBridge` · `Amazon S3` · `Amazon RDS` · `Amazon EC2` · `AWS CDK`
+
+### Automatización y análisis de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</p>
+
+`n8n` · `Make` · `Excel` · `Power BI` · `pandas` · `Matplotlib`
+
+### Herramientas de desarrollo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code y Postman" />
+</p>
+
+`Docker` · `Scrum` · `Pruebas automatizadas` · `Agentes de IA para desarrollo`
+
+---
+
+## 🎯 Enfoque profesional
+
+- Diseñar arquitecturas escalables y mantenibles.
+- Resolver problemas de rendimiento y eficiencia operativa.
+- Mejorar sistemas existentes sin perder de vista sus reglas de negocio.
+- Guiar decisiones técnicas y colaborar directamente en la implementación.
+- Incorporar herramientas de IA en procesos de ingeniería controlados y verificables.
+
+## 🤝 Conectemos
+
+Estoy interesado en oportunidades relacionadas con **Software Engineering, Tech Leadership, Backend Architecture y Full Stack Development**, tanto en equipos locales como remotos.
+
+<div align="center">
+
+[![Portafolio](https://img.shields.io/badge/Explorar_mi_portafolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oscar-vallecillo-dev.netlify.app/)
+
+[LinkedIn](https://www.linkedin.com/in/oscar-vallecillo-938127254) · [GitHub](https://github.com/RacsoJosu)
+
+</div>
