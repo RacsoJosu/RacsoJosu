@@ -1,69 +1,84 @@
-# 👋 Hi, I'm Oscar Vallecillo | 👋 Hola, soy Oscar Vallecillo  
+# Oscar Vallecillo
+### Software Engineer · Tech Lead · Full Stack Developer
 
-**Full Stack Developer | Apasionado por la tecnología**  
-[Mi portafolio] -  [Preview](https://oscar-vallecillo-dev.netlify.app/) 
----
-## 🌟 Favorite Projects | Proyectos Favoritos  
- Frontend:
-- [Shinball Fronted](https://github.com/RacsoJosu/shinball-fronted) -  [Preview](https://shinball-fronted.vercel.app/) 
-- [Store React](https://github.com/RacsoJosu/Store-React)  -  [Preview](https://store-react-alpha.vercel.app/)
-- [Pokedex](https://github.com/RacsoJosu/Pokedex) - [Preview](https://pokedex-nu-cyan.vercel.app/)
+I design and build maintainable software solutions, combining technical leadership with hands-on development. My work focuses on solving complex business problems, improving system performance, and designing reliable architectures that can evolve with changing requirements.
 
- Backend:
-- [AWS DynamoDB CRUD ](https://github.com/RacsoJosu/api-gateway-dynamo-db-serverless-crud) 
-- [AWS Event-driven architecture ](https://github.com/RacsoJosu/event-driven-architecture-aws)  
-- [Shiball Admin API](https://github.com/RacsoJosu/shiball-admin-api)  
-- [Items Store](https://github.com/RacsoJosu/Items-Store)
- ---
+I enjoy understanding how systems work, identifying bottlenecks, and turning technical problems into practical solutions.
 
-## 🚀 Top Skills & Technologies | Habilidades y Tecnologías  
-- **Languages:** TypeScript, JavaScript, Java, C#, Python  
-- **Frontend:** React, Next.js, ShadcnUI, MaterialUI, ChakraUI, TailwindCSS, CSS, Html  
-- **Backend:** Spring Boot, .NET, NestJS, Nodejs, ExpressJs  
-- **Cloud & DevOps:** AWS (S3, EventBridge, Lambda, EC2, RDS), Docker  
+[Portfolio](https://oscar-vallecillo-dev.netlify.app) · [LinkedIn](https://www.linkedin.com/in/oscar-vallecillo-938127254) · [GitHub](https://github.com/RacsoJosu)
 
 ---
 
-## 📚 Currently Learning | Aprendiendo  
-- Automation with **n8n** | Automatización con **n8n**  
-- Mobile development with **React Native** | Desarrollo móvil con **React Native**
-- AWS Cloud & Services | AWS en general y sus servicios  
+## What I Do
 
----
+- **Software Architecture:** Design maintainable backend architectures, modular systems, and clear separation of responsibilities.
+- **Backend Engineering:** Build APIs, integrate external services, optimize database operations, and implement business logic.
+- **Full Stack Development:** Develop scalable applications with TypeScript, React, Next.js, and Node.js.
+- **Performance Optimization:** Refactor inefficient processes, improve data processing, and optimize frontend loading.
+- **Cloud & Automation:** Build scheduled processes and integrations using AWS, Docker, n8n, and Make.
+- **AI-Assisted Engineering:** Design structured AI development workflows with explicit coding rules, planning, testing, and human review.
 
-## 💡 Passionate About | Apasionado por  
-- Web Development | Desarrollo Web  
-- Artificial Intelligence | Inteligencia Artificial  
-- Open Source | Código Abierto  
-- Process Automation | Automatización de procesos  
+## Selected Engineering Experience
 
----
+### Performance Optimization
 
-## 🔭 What I'm Working On | En qué estoy trabajando  
-- Digital Engineering | Ingeniería Digital
-- HealthTech applications to improve access to healthcare | Aplicaciones HealthTech para mejorar el acceso a la salud  
-- Multi-platform system: Admin, Patients, and Supplier | Sistema multiplataforma: Admin, Pacientes y Proveedor  
-- Focused on usability, scalability, and secure digital healthcare | Enfocado en usabilidad, escalabilidad y salud digital segura  
+Redesigned a data import process handling approximately 5,000 Excel records across multiple database tables.
 
----
+- Refactored data-processing workflows.
+- Improved read/write operations and batch processing.
+- Reduced reported processing time from approximately **5 minutes to 800 milliseconds**.
 
-## 🏆 Achievements | Logros  
-- **Bachelor’s Degree in Systems Engineering – National Autonomous University of Honduras (UNAH) | Título de Ingeniero en Sistemas – Universidad Nacional Autónoma de Honduras (UNAH)**  
-- Built and launched multiple web apps | He construido y lanzado multipled wep apps
----
+### Backend Architecture
 
-## 🌐 Connect With Me | Conecta conmigo  
-- [LinkedIn](https://www.linkedin.com/in/oscar-vallecillo-938127254)  
-- 📧 Email: oscarvallecillo.dev@gmail.com  
+- Designed layered backend structures separating routes, controllers, services, repositories, and validation schemas.
+- Applied dependency injection, dependency inversion, and design patterns such as Strategy and Builder.
+- Improved existing database schemas and relationships.
+- Focused on maintainability, modularity, and reusable business logic.
 
----
+### Payment Integrations & Automation
 
-## 🎉 Fun Facts | Datos curiosos  
-- Soccer enthusiast ⚽ | Entusiasta del fútbol ⚽  
-- Always learning something new 🚀 | Siempre aprendiendo algo nuevo 🚀  
+- Integrated PixelPay into backend payment workflows.
+- Implemented scheduled recurring payment processes using AWS EventBridge and AWS Lambda.
+- Generated payment links for users whose automatic charges failed, allowing them to reactivate subscriptions.
+- Implemented endpoints to process payment confirmation webhooks.
+- Automated business processes and data imports using n8n, Make, and external APIs.
 
----
+### AI-Assisted Software Development
 
-_Thanks for visiting! Feel free to connect or check out my projects._  
-_¡Gracias por visitar! No dudes en conectar o revisar mis proyectos._  
+Designed a structured development workflow using `AGENTS.md`, skills, hooks, specialized prompts, and subagents.
 
+The workflow guides task refinement, complexity assessment, implementation planning, testing, and code review. It establishes strict boundaries around critical code, requires adherence to project conventions, and keeps business decisions under developer supervision.
+
+## Technology Stack
+
+**Languages**
+
+TypeScript · JavaScript · Python · SQL · Java · C#
+
+**Frontend**
+
+React · Next.js · TanStack Query · Tailwind CSS · shadcn/ui
+
+**Backend**
+
+Node.js · Express · NestJS · REST APIs · GraphQL
+
+**Databases**
+
+PostgreSQL · MySQL · SQL Server · MongoDB
+
+**Cloud & Infrastructure**
+
+AWS Lambda · Amazon EventBridge · Amazon S3 · Amazon RDS · Amazon EC2 · AWS CDK · Docker · Nginx · Terraform
+
+**Automation & Data**
+
+n8n · Make · Excel · Power BI · pandas · Matplotlib
+
+## Let's Connect
+
+I'm interested in opportunities involving software engineering, technical leadership, backend architecture, and full stack development.
+
+- Portfolio: https://oscar-vallecillo-dev.netlify.app
+- LinkedIn: https://www.linkedin.com/in/oscar-vallecillo-938127254
+- GitHub: https://github.com/RacsoJosu
